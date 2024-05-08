@@ -57,5 +57,13 @@ over a maximum of 30 hops:
 
 
 
+   50  44.029305 Intel_64:b4:37 → MercusysTech_a9:73:a9 ARP 42 192.168.168.105 is at 04:56:e5:64:b4:37
+   51  54.062056 MercusysTech_a9:73:a9 → Broadcast    ARP 42 Who has 192.168.168.106? Tell 192.168.168.1
+   52  54.985567 MercusysTech_a9:73:a9 → Broadcast    ARP 42 Who has 192.168.168.105? Tell 192.168.168.1
+   53  54.985567 MercusysTech_a9:73:a9 → Broadcast    ARP 42 Who has 192.168.168.106? Tell 192.168.168.1
+   54  54.985595 Intel_64:b4:37 → MercusysTech_a9:73:a9 ARP 42 192.168.168.105 is at 04:56:e5:64:b4:37
+   55  56.006817 MercusysTech_a9:73:a9 → Broadcast    ARP 42 Who has 192.168.168.105? Tell 192.168.168.1
+   56  56.006842 Intel_64:b4:37 → MercusysTech_a9:73:a9 ARP 42 192.168.168.105 is at 04:56:e5:64:b4:37
+   57  57.033091 MercusysTech_a9:73:a9 → Broadcast    ARP 42 Who has 192.168.168.101? Tell 192.168.168.1
 
 
